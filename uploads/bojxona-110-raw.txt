@@ -1,0 +1,1479 @@
+BOJXONA STATISTIKASI VA BYD MAVZULARI BO‘YICHA JAMLANMA TESTLAR
+1-test
+
+Bojxona statistikasi ma’lumotlarini guruhlash usuli asosida tahlil qilishda quyidagilardan qaysi biri asosiy tahlil yo‘nalishlaridan biri sifatida keltirilmagan?
+
+A) TIF subyektlari bo‘yicha
+B) Davlatlar va hududlar bo‘yicha
+C) Tovar pozitsiyalari bo‘yicha
+D) Korxonaning ichki mehnat intizomi bo‘yicha
+
+2-test
+
+Chizma (grafik) usulda bojxona statistikasi obyektlarining o‘zgarish dinamikasini ifodalash uchun eng ko‘p qo‘llanadigan diagramma turi qaysi?
+
+A) Aylana diagramma
+B) Chiziqli diagramma
+C) Nuqtali diagramma
+D) Gistogramma
+
+3-test
+
+Chiziqli grafik yordamida bojxona statistikasi dinamikasi ifodalanayotganda o‘qlar qanday joylashtiriladi?
+
+A) Abssissa o‘qiga qiymat, ordinata o‘qiga vaqt
+B) Har ikki o‘qqa faqat foiz ko‘rsatkichlari
+C) Abssissa o‘qiga vaqt oralig‘i, ordinata o‘qiga qiymat yoki miqdor
+D) Abssissa o‘qiga davlatlar, ordinata o‘qiga boj stavkasi
+
+4-test
+
+Tashqi savdo balansi jadvalida tashqi savdo aylanmasi qanday aniqlanadi?
+
+A) Eksport − import
+B) Eksport + import
+C) Eksport / import
+D) Import − eksport
+
+5-test
+
+Agar eksport qiymati import qiymatidan yuqori bo‘lsa, tashqi savdo balansi qanday baholanadi?
+
+A) Passiv balans
+B) Neytral balans
+C) Aktiv balans
+D) Kredit balans
+
+6-test
+
+Eksport va import qiymatlari o‘zaro teng bo‘lsa, bu holat qanday ataladi?
+
+A) Passiv saldo
+B) Aktiv saldo
+C) Netto-balans
+D) Tovar balansi
+
+7-test
+
+Indeks usulida alohida (individual) indeks odatda qaysi harf bilan belgilanadi?
+
+A) I
+B) i
+C) R
+D) q
+
+8-test
+
+Alohida indeksning umumiy ko‘rinishi qaysi formula bilan ifodalanadi?
+
+A) i = X0 / X1
+B) i = X1 − X0
+C) i = X1 / X0
+D) i = X1 + X0
+
+9-test
+
+Tovar fizik hajmining alohida indeksini ko‘rsating.
+
+A) iq = q1 / q0
+B) iq = p1 / p0
+C) iq = q0 / q1
+D) iq = p0 / p1
+
+10-test
+
+Tovar bir birlik narxining alohida indeksini ko‘rsating.
+
+A) ip = q1 / q0
+B) ip = p1 / p0
+C) ip = p0 / p1
+D) ip = q0 / q1
+
+11-test
+
+Agar alohida indeks 1 dan katta bo‘lsa, bu nimani bildiradi?
+
+A) Ko‘rsatkich o‘zgarmaganini
+B) Ko‘rsatkich kamayganini
+C) Ko‘rsatkich oshganini
+D) Hisoblashda xato borligini
+
+12-test
+
+Tovar qiymati indeksining umumiy formulasi qaysi?
+
+A) I
+pq
+	​
+
+=Σp
+1
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+B) I
+pq
+	​
+
+=Σp
+1
+	​
+
+q
+0
+	​
+
+/Σp
+0
+	​
+
+q
+1
+	​
+
+
+C) I
+pq
+	​
+
+=Σp
+0
+	​
+
+q
+1
+	​
+
+/Σp
+1
+	​
+
+q
+0
+	​
+
+
+D) I
+pq
+	​
+
+=Σp
+1
+	​
+
+/Σp
+0
+	​
+
+
+13-test
+
+Joriy davrdagi fizik hajm o‘zgarmas deb olinib, narxning tovar qiymatiga ta’sirini aniqlovchi formula qaysi?
+
+A) I
+q
+	​
+
+=Σp
+0
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+B) I
+p
+	​
+
+=Σp
+1
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+1
+	​
+
+
+C) I
+p
+	​
+
+=Σp
+1
+	​
+
+q
+0
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+D) I
+pq
+	​
+
+=Σp
+1
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+14-test
+
+Asos davrdagi narx o‘zgarmas deb olinib, fizik hajmning tovar qiymatiga ta’sirini ko‘rsatuvchi formula qaysi?
+
+A) I
+q
+	​
+
+=Σp
+0
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+B) I
+q
+	​
+
+=Σp
+1
+	​
+
+q
+1
+	​
+
+/Σp
+1
+	​
+
+q
+0
+	​
+
+
+C) I
+q
+	​
+
+=Σq
+1
+	​
+
+/Σq
+0
+	​
+
+
+D) I
+q
+	​
+
+=Σp
+1
+	​
+
+q
+0
+	​
+
+/Σp
+0
+	​
+
+q
+1
+	​
+
+
+15-test
+
+Quyidagi tengliklardan qaysi biri tovar qiymati indeksining narx va fizik hajm indekslari bilan bog‘liqligini to‘g‘ri ifodalaydi?
+
+A) I
+pq
+	​
+
+=I
+p
+	​
+
++I
+q
+	​
+
+
+B) I
+pq
+	​
+
+=I
+p
+	​
+
+−I
+q
+	​
+
+
+C) I
+pq
+	​
+
+=I
+p
+	​
+
+×I
+q
+	​
+
+
+D) I
+pq
+	​
+
+=I
+p
+	​
+
+/I
+q
+	​
+
+
+16-test
+
+Laspeyres narx indeksi qaysi formula bilan ifodalanadi?
+
+A) Σp
+1
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+1
+	​
+
+
+B) Σp
+1
+	​
+
+q
+0
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+C) Σp
+0
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+D) Σp
+1
+	​
+
+q
+1
+	​
+
+/Σp
+0
+	​
+
+q
+0
+	​
+
+
+17-test
+
+Sabab (faktor) usulining matematik ifodasi qaysi javobda to‘g‘ri berilgan?
+
+A) Y=x
+1
+	​
+
++x
+2
+	​
+
++...+x
+n
+	​
+
+
+B) Y=X
+1
+	​
+
+/X
+0
+	​
+
+
+C) Y=f(x
+1
+	​
+
+,x
+2
+	​
+
+,...,x
+n
+	​
+
+)
+D) Y=p×q
+
+18-test
+
+Matnda keltirilishicha, davlat eksporti miqdoriga ta’sir ko‘rsatuvchi asosiy omillar qaysilar?
+
+A) Faqat boj stavkasi va QQS
+B) Umummilliy mehnat unumdorligi va milliy daromad
+C) Faqat valyuta kursi va bank foizi
+D) Faqat transport xarajati va sug‘urta summasi
+
+19-test
+
+Matnda import hajmiga ta’sir ko‘rsatuvchi asosiy omil sifatida nima ko‘rsatilgan?
+
+A) Faqat bojxona postlari soni
+B) Tashqi siyosiy reyting
+C) Xalq xo‘jaligi va aholining import tovarlarga bo‘lgan ehtiyoji
+D) Faqat eksportyor korxonalarning foydasi
+
+20-test
+
+Tashqi savdo bojxona statistikasi ma’lumotlarini asosiy ko‘rsatkichlar bo‘yicha tahlil qilishning umumiy sxemasida, tahlil qilinuvchi kattaliklar sifatida qaysi javob to‘liqroq keltirilgan?
+
+A) Faqat netto vazn va boj stavkasi
+B) Qo‘shimcha o‘lchov birligidagi miqdor, netto vazn, faktura, bojxona va statistik qiymat
+C) Faqat faktura qiymati va eksport boji
+D) Faqat statistik qiymat va transport turi
+
+21-test
+
+Mamlakatlar tashqi savdo bojxona statistikasi ma’lumotlarini tahliliy solishtirishdan asosiy maqsad nima?
+
+A) Faqat eksport bojlarini kamaytirish
+B) Statistik ma’lumotlarni qiyosiy baholash orqali tafovutlar, xatolar va yashirin holatlarni aniqlash
+C) Faqat import hajmini oshirish
+D) Faqat bojxona postlari sonini ko‘paytirish
+
+22-test
+
+Tayanch so‘z va iboralarda keltirilgan quyidagi tushunchalardan qaysi biri mamlakatlararo bojxona statistikasi ma’lumotlarini solishtirish bilan bevosita bog‘liq emas?
+
+A) Qamrov darajasi
+B) Operatsion ko‘rsatkich
+C) Texnik tafovutlar
+D) Kontragent mamlakat
+
+23-test
+
+Mamlakatlar o‘rtasida tashqi savdo bojxona statistikasi ma’lumotlarida tafovutlar kelib chiqishining asosiy sabablari qaysilar?
+
+A) Faqat valyuta kursi o‘zgarishi
+B) Faqat transport xarajatlari
+C) Uslubiy tafovutlar, texnik tafovutlar va noto‘g‘ri ma’lumot taqdim etish
+D) Faqat boj stavkalari farqi
+
+24-test
+
+Quyidagilardan qaysi biri uslubiy tafovut hisoblanadi?
+
+A) Tovar import mamlakatiga hali yetib bormaganligi
+B) Tovar tranzitda yo‘qolganligi
+C) Tovar statistik qiymatini importda CIF, eksportda esa DAF shartida aniqlash
+D) Tovar taqqoslanayotgan davrdan keyin yetib kelganligi
+
+25-test
+
+Quyidagilardan qaysi biri texnik tafovut hisoblanadi?
+
+A) TIF TN qoidalarini turlicha talqin qilish
+B) Tovar ishlab chiqarilgan mamlakatni noto‘g‘ri ko‘rsatish
+C) Tovar eksport mamlakatidan jo‘natilib, import mamlakatiga taqqoslanayotgan davrda hali yetib kelmagan bo‘lishi
+D) Jismoniy shaxslar olib o‘tgan tovarlarni turlicha hisobga olish
+
+26-test
+
+Ma’lumotlarni solishtirishda eksport qiluvchi mamlakat ma’lumotlari import qiluvchi mamlakat ma’lumotlaridan katta bo‘lsa, quyidagilardan qaysi holat bunga sabab bo‘lishi mumkin?
+
+A) Tovar import mamlakatiga uchinchi mamlakat orqali etkazib berilgan
+B) Tovar import mamlakatiga hali yetib bormagan
+C) Import mamlakatida avval olib kirilgan tovar bojxona rasmiylashtiruvidan o‘tkazilgan
+D) Tovar eksport mamlakatidan noqonuniy yo‘l bilan olib chiqilgan
+
+27-test
+
+Eksport qiluvchi mamlakat ma’lumotlari import qiluvchi mamlakat ma’lumotlaridan kichik bo‘lsa, qaysi holat ehtimoliy sabab bo‘la oladi?
+
+A) Tovar import mamlakatining bojxona omborida turibdi
+B) Tovar import mamlakatiga noqonuniy olib kirilgan
+C) Tovar import mamlakatiga uchinchi mamlakat orqali etkazib berilmoqda
+D) Tovar hali yo‘lda
+
+28-test
+
+Quyidagilardan qaysi holat noto‘g‘ri ma’lumot taqdim qilish misoli sifatida keltirilgan?
+
+A) Tovar tranzit mamlakatda shikastlangan
+B) Importer bojxona to‘lovlaridan qochish maqsadida qalbaki invoys taqdim qilishi
+C) Hisobot davri bir xil kelmasligi
+D) Tovar bojxona omborida saqlanayotgan bo‘lishi
+
+29-test
+
+Eksportyorlar tomonidan qaytarib olinadigan QQS miqdorini oshirish uchun qaysi usul qo‘llanishi mumkinligi matnda ko‘rsatilgan?
+
+A) Tovar miqdori va qiymatini kamaytirib ko‘rsatish
+B) Tovar nomini yashirish
+C) Tovar miqdori va qiymatini oshirib ko‘rsatish
+D) Tovarni umuman deklaratsiya qilmaslik
+
+30-test
+
+Mamlakatlar o‘rtasida ma’lumotlarni solishtirishda uslubiy tafovutlarni hisobga olish uchun alohida tahlil qilinadigan yo‘nalishlardan qaysi biri to‘g‘ri?
+
+A) Faqat bojxona xodimlari soni
+B) Ma’lumotlarning qamrov darajasi, savdo tizimi, hisobga olish vaqti, klassifikatsiya va kontragent mamlakat
+C) Faqat davlat byudjeti ko‘rsatkichlari
+D) Faqat ichki bozor narxlari
+
+31-test
+
+Matnga ko‘ra, mamlakatlar o‘rtasida tashqi savdo bojxona statistikasi ma’lumotlarini o‘zaro solishtirish jarayoni nimaga yakun yasaydi?
+
+A) Sud qarori chiqarish bilan
+B) Bojxona posti xulosasi bilan
+C) Qo‘shimcha ma’lumot taqdim qilish belgilangan bayonnomaning imzolanishi bilan
+D) Faqat og‘zaki kelishuv bilan
+
+32-test
+
+O‘zbekiston Respublikasi Davlat bojxona qo‘mitasi va Turkmaniston Davlat bojxonasi o‘rtasidagi “Tashqi savdo bojxona statistikasi sohasida uslubiy va axborot hamkorligi to‘g‘risida”gi Bayonnoma qachon imzolangan?
+
+A) 2010 yil 9 iyun
+B) 2011 yil 1 yanvar
+C) 2001 yil 27 fevral
+D) 2005 yil 15 mart
+
+33-test
+
+Turkmaniston–O‘zbekiston misolida o‘zaro solishtirish natijasida qaysi tovar bo‘yicha tafovut aniqlangan?
+
+A) Shakar
+B) Tozalangan paxta yog‘i
+C) Bug‘doy uni
+D) Elektr energiyasi
+
+34-test
+
+Turkmaniston tomoni ma’lumotida tozalangan paxta yog‘ining birlik narxi qancha ko‘rsatilgan?
+
+A) 1,15 dollar/kg
+B) 1,67 dollar/kg
+C) 2,15 dollar/kg
+D) 0,97 dollar/kg
+
+35-test
+
+O‘zbekiston tomoni import ma’lumotida shu tovarning birlik qiymati qancha ko‘rsatilgan?
+
+A) 1,67 dollar/kg
+B) 1,50 dollar/kg
+C) 1,15 dollar/kg
+D) 0,75 dollar/kg
+
+36-test
+
+Turkmaniston va O‘zbekiston bojxona organlari ma’lumotlarini solishtirish natijasida qo‘shimcha qancha bojxona to‘lovlari hisoblangan?
+
+A) 37,3 mln so‘m
+B) 173,3 mln so‘m
+C) 273,3 mln so‘m
+D) 373,3 mln so‘m
+
+37-test
+
+Ekspertlar uchrashuvidan kamida qancha muddat oldin tomonlar tovarlar ro‘yxati haqida bir-birlarini xabardor qiladilar?
+
+A) 1 hafta
+B) 2 hafta
+C) 3 hafta
+D) 1 oy
+
+38-test
+
+Ekspertlar guruhi ishining ikkinchi bosqichida asosan nima amalga oshiriladi?
+
+A) Faqat yangi boj stavkalari belgilanadi
+B) Tafovutlar sabablarini aniqlash va kelishib olish maqsadida ekspertlar uchrashuvi o‘tkaziladi
+C) Faqat import hajmi e’lon qilinadi
+D) Faqat statistik hudud aniqlanadi
+
+39-test
+
+Zarur hollarda, agar ma’lumotlarni oshkor etish milliy qonunchilikka zid kelmasa, solishtirish qaysi darajada o‘tkazilishi mumkin?
+
+A) Faqat yillik umumiy ko‘rsatkichlar darajasida
+B) Faqat choraklik ma’lumotlar darajasida
+C) Aniq bir etkazib berilgan tovar partiyasi darajasida
+D) Faqat davlatlar guruhi darajasida
+
+40-test
+
+Yakuniy hujjatda quyidagilardan qaysi biri albatta aks etishi lozim?
+
+A) Faqat ekspertlar guruhi tarkibi
+B) Faqat solishtirish natijasi
+C) Solishtirish maqsadi, davr oralig‘i, ekspertlar guruhi tarkibi, natija, tafovutlar sababi, xulosa va takliflar
+D) Faqat qo‘shimcha boj summasi
+
+41-test
+
+Bojxona yuk deklaratsiyasi kim tomonidan to‘ldiriladi va kim tomonidan rasmiylashtiriladi?
+
+A) Bojxona inspektori to‘ldiradi, deklarant rasmiylashtiradi
+B) Deklaratsiyalovchi shaxs to‘ldiradi, bojxona inspektori rasmiylashtiradi
+C) Faqat tashuvchi to‘ldiradi
+D) Faqat bojxona brokeri rasmiylashtiradi
+
+42-test
+
+PPTga ko‘ra, ma’lumotlarning haqqoniyligi deganda nima tushuniladi?
+
+A) Faqat BЮDdagi qiymatning bozor narxiga mosligi
+B) Faqat tovar kodi to‘g‘ri ko‘rsatilishi
+C) BЮDdagi ma’lumotlarning to‘liqligi, to‘g‘ri to‘ldirilganligi va rasmiylashtirilganligi
+D) Faqat bojxona to‘lovlarining hisoblanganligi
+
+43-test
+
+BЮDni to‘ldirishda ko‘p uchraydigan xatolar nechta asosiy toifaga bo‘linadi?
+
+A) 2 ta
+B) 3 ta
+C) 4 ta
+D) 5 ta
+
+44-test
+
+Quyidagilardan qaysi biri PPTda keltirilgan xato turlaridan biri emas?
+
+A) Texnik xatoliklar
+B) Ob’yektiv xatoliklar
+C) Sub’yektiv xatoliklar
+D) Kriminogen xatoliklar
+
+45-test
+
+BЮDning 46-grafasida qiymat 1000 AQSH dollarida ifodalanmay, bu holat inspektorning e’tiborsizligi oqibatida yuzaga kelsa, bu qanday xatolik hisoblanadi?
+
+A) Ob’yektiv xatolik
+B) Statistik xatolik
+C) Texnik xatolik
+D) Sub’yektiv xatolik
+
+46-test
+
+BЮDning 46-grafasidagi xato yetkazib berish shartlari, faktura qiymati yoki bojxona qiymati noto‘g‘ri aniqlangani natijasida yuzaga kelsa, bu qanday xatolik bo‘ladi?
+
+A) Texnik xatolik
+B) Sub’yektiv xatolik
+C) Tashkiliy xatolik
+D) Rasmiy xatolik
+
+47-test
+
+Quyidagi grafalardan qaysi biri tovarning statistik qiymatini aks ettiradi?
+
+A) 42-grafa
+B) 45-grafa
+C) 46-grafa
+D) 47-grafa
+
+48-test
+
+Quyidagi grafalardan qaysi biri bojxona to‘lovlarini noto‘g‘ri hisoblash bilan bog‘liq?
+
+A) 33-grafa
+B) 47-grafa
+C) 29-grafa
+D) 25-grafa
+
+49-test
+
+BЮDning 24-grafasida “61” kodi ko‘rsatilishi qaysi holatda PPTga ko‘ra xato deb topilgan?
+
+A) Eksportning erkin muomalaga chiqarish rejimida
+B) Import IM-40 rejimida
+C) Bojxona ombori rejimida
+D) Tranzit rejimida
+
+50-test
+
+BЮDning 24-grafasida “61” kodini IM-40 rejimida qo‘llash oqibatida qanday natija yuzaga kelgani ko‘rsatilgan?
+
+A) Tovar ikki marta deklaratsiya qilingan
+B) 19,0 ming AQSH dollarilik tovar statistika hisobidan chiqib ketgan
+C) Bojxona to‘lovlari ortiqcha undirilgan
+D) Tovar kelib chiqish mamlakati noto‘g‘ri ko‘rsatilgan
+
+51-test
+
+Qo‘shma korxona o‘zi ishlab chiqargan mahsulotni eksport qilayotganda 37-grafada “1000027” ko‘rsatilsa, 43-grafada nima ko‘rsatiladi?
+
+A) 0
+B) 1
+C) 27
+D) 1000
+
+52-test
+
+BЮDning 8-grafasidagi STIR (INN) ma’lumotlari noto‘g‘ri ko‘rsatilganini aniqlashda qaysi manbadan foydalaniladi?
+
+A) Faqat bank ma’lumotlaridan
+B) Faqat bojxona posti jurnalidan
+C) Davlat statistika va soliq qo‘mitalarining yagona davlat registri ma’lumotlaridan
+D) Faqat eksportyorning xatidan
+
+53-test
+
+BЮDning 23-grafasida qaysi kurs ko‘rsatilishi kerak?
+
+A) Shartnoma tuzilgan kundagi kurs
+B) Tovar jo‘natilgan kundagi kurs
+C) BЮD bojxona rasmiylashtiruviga qabul qilingan kundagi Markaziy bank kursi
+D) Hisobot oyining oxirgi kunidagi kurs
+
+54-test
+
+BЮDning 29-grafasida “26003” kodi va post nomi ko‘rsatilgan bo‘lsa, bu holat qanday baholanadi?
+
+A) Har doim to‘g‘ri
+B) Noto‘g‘ri, chunki TIF bojxona posti kodi va nomini ko‘rsatish xato
+C) Faqat eksportda xato
+D) Faqat tranzitda xato
+
+55-test
+
+PPTga ko‘ra, qaysi TIF bojxona postlarini 29-grafada ko‘rsatish amaliyotda xato hisoblanmaydi?
+
+A) 26003 va 06011
+B) 00102 “Avia yuklar” va 12012 “Navoiy industrial”
+C) 27020 va 26010
+D) 14010 va 35002
+
+56-test
+
+BЮDning 31-grafasi chap past qismidagi STIR kod raqamlari bo‘yicha qaysi hukm to‘g‘ri?
+
+A) Ularni to‘ldirish ixtiyoriy
+B) Faqat eksportda to‘ldiriladi
+C) To‘ldirilishi shart
+D) Faqat jismoniy shaxs uchun to‘ldiriladi
+
+57-test
+
+BЮDning 24-grafasida bitim xususiyati kodi “84” ko‘rsatilgan bo‘lsa, 37-grafa 3-bo‘linmasida nima ko‘rsatiladi?
+
+A) 027
+B) 084
+C) 004
+D) 040
+
+58-test
+
+BЮDning 1-grafasida tovar harakati yo‘nalishi “IM” bo‘la turib, 37-grafa 3-bo‘linmasida “027” kodi ko‘rsatilishi qanday baholanadi?
+
+A) To‘g‘ri, chunki bu import kodi
+B) Xato, chunki tovarni olib o‘tish xususiyati kodi yo‘nalish yoki rejimga mos emas
+C) Faqat vaqtincha olib kirishda to‘g‘ri
+D) Faqat statistikada qo‘llanadi
+
+59-test
+
+Toshkent shahar bojxona boshqarmasiga qarashli TIF bojxona postlarida aniqlangan xatolar ichida eng katta ulush qaysi grafaga to‘g‘ri kelgan?
+
+A) 46-grafa
+B) 31-grafa
+C) 20-grafa
+D) 8-grafa
+
+60-test
+
+Toshkent shahar bojxona boshqarmasi ma’lumotiga ko‘ra, 20-grafa bo‘yicha aniqlangan xatolar ulushi qancha bo‘lgan?
+
+A) 14,05%
+B) 15,27%
+C) 9,01%
+D) 8,75%
+
+61-test
+
+Mazkur Nizom nimani belgilaydi?
+
+A) Faqat bojxona to‘lovlarini hisoblash tartibini
+B) BYDni o‘zgartirish, qo‘shimcha kiritish, qayta rasmiylashtirish, qaytarib olish va bekor qilish tartibini
+C) Faqat eksport statistikasi yuritish tartibini
+D) Faqat bojxona ko‘rigini o‘tkazish tartibini
+
+62-test
+
+Mazkur qaror qachondan kuchga kiradi?
+
+A) Rasmiy e’lon qilingan kundan boshlab
+B) Imzolangan kundan 10 kun o‘tib
+C) Rasmiy e’lon qilingan kundan e’tiboran uch oydan keyin
+D) Adliya vazirligida ro‘yxatdan o‘tgan kundan boshlab
+
+63-test
+
+BYDdagi xato deganda nima tushuniladi?
+
+A) Faqat tovar kodi noto‘g‘ri ko‘rsatilishi
+B) Faqat yetishmayotgan hujjatlar
+C) Taqdim etilgan hujjatlardagi yoki bojxona organidagi axborot bilan BYD/BQD ma’lumotlari orasidagi tafovut yoxud grafalardagi noto‘g‘ri ma’lumot
+D) Faqat deklarantning imzosi yo‘qligi
+
+64-test
+
+BYDdagi kamchilik deganda nima tushuniladi?
+
+A) Bojxona organi bilan deklarant o‘rtasidagi nizo
+B) Zarur ma’lumotlar yetishmasligi yoki BYD bilan birga taqdim etilishi lozim bo‘lgan hujjatlarning to‘liq bo‘lmasligi
+C) Faqat qiymat noto‘g‘ri ko‘rsatilishi
+D) Faqat bojxona to‘lovlari kech to‘lanishi
+
+65-test
+
+Rasmiylashtirilgan BYD qaysi belgi bilan ajratiladi?
+
+A) 7-grafada faqat sana bo‘lishi bilan
+B) “D” grafasiga bojxona organining tegishli belgilari qo‘yilgan bo‘lishi bilan
+C) 1-grafa to‘ldirilgani bilan
+D) Faqat ERI bilan tasdiqlangani bilan
+
+66-test
+
+Ro‘yxatga olinib, rasmiylashtirilmagan BYD qaysi holatni anglatadi?
+
+A) 7-grafada raqam va sana bor, lekin “D” grafasiga tegishli belgilar qo‘yilmagan
+B) Hech bir grafasi to‘ldirilmagan
+C) Faqat qog‘oz shaklda bo‘lgan BYD
+D) Bojxona organi tomonidan rad etilgan BYD
+
+67-test
+
+Elektron shakldagi BYD qaysi javobda to‘g‘ri tariflangan?
+
+A) Faqat skaner qilingan hujjat
+B) Deklaratsiyalovchi shaxs ERIsi bilan tasdiqlangan va TEDAAT orqali taqdim etilgan elektron hujjat
+C) Oddiy Word hujjati
+D) Faqat bojxona organi to‘ldiradigan shakl
+
+68-test
+
+BQDning to‘g‘ri tavsifi qaysi?
+
+A) BYDdan alohida, mustaqil statistik hisobot
+B) BYDning ajralmas qismi bo‘lib, tovarning bojxona qiymati haqidagi ma’lumotlarni o‘z ichiga oladi
+C) Faqat eksportda tuziladigan hujjat
+D) Faqat bankka topshiriladigan hujjat
+
+69-test
+
+Bojxona rasmiylashtiruvi tugallangandan va tovarlar muayyan rejimga joylashtirilgandan keyin BYDga o‘zgartirish yoki qo‘shimcha kiritish qancha muddat ichida mumkin?
+
+A) 6 oy
+B) 1 yil
+C) 2 yil
+D) 3 yil
+
+70-test
+
+Olib chiqilayotgan tovarlarga doir BYD qaysi paytgacha qaytarib olinishi mumkin?
+
+A) Faqat ro‘yxatdan o‘tguniga qadar
+B) Tovarlarni olib chiqishga ruxsat berilgandan keyin ham, ular amalda olib chiqilguniga qadar
+C) Faqat bojxona ko‘rigidan oldin
+D) Hech qachon qaytarib olinmaydi
+
+71-test
+
+Elektron BYDga o‘zgartirish va (yoki) qo‘shimcha kiritish odatda qanday amalga oshiriladi?
+
+A) Faqat qog‘oz ariza bilan
+B) BDT taqdim etish orqali
+C) Faqat sud qarori bilan
+D) Faqat bojxona ko‘rsatmasi bilan
+
+72-test
+
+Bojxona organlari deklaratsiyalovchi shaxsdan ilgari taqdim etilgan hujjatlarni qayta ilova qilishni qachon talab qilmaydi?
+
+A) Har doim talab qiladi
+B) Faqat eksportda talab qilmaydi
+C) Mavjud hujjatlar takroran talab qilinmaydi, sifatsiz hujjatlar bundan mustasno
+D) Faqat importda talab qilinmaydi
+
+73-test
+
+Faqat bojxona organi to‘ldiradigan grafalarga o‘zgartirish zarur bo‘lsa, uni kim amalga oshiradi?
+
+A) Faqat deklarant
+B) Faqat bojxona brokeri
+C) Bojxona organi xodimi, imzo va shaxsiy raqamli muhr/ERI bilan tasdiqlab
+D) Tashuvchi tashkilot
+
+74-test
+
+Quyidagilardan qaysi biri Nizomda BYDga o‘zgartirish yoki qo‘shimcha kiritishga asos bo‘ladigan holat sifatida ko‘rsatilgan?
+
+A) Deklarantning telefon raqami o‘zgargani
+B) Tovarlarni tashishga mo‘ljallangan transport vositalari texnik jihatdan nosoz bo‘lganda
+C) Tashqi ko‘rinish chiroyli bo‘lmaganda
+D) Faqat deklarant xohlaganda
+
+75-test
+
+Eksport rejimiga rasmiylashtirilgan tovarlar olib chiqishga ruxsat berilgan sanadan keyin qancha muddat ichida olib chiqilmasa, BYDga tegishli harakatlar amalga oshirilishi mumkin?
+
+A) Avtotransportda 5 kun, boshqalarda 10 kun
+B) Avtotransportda 10 kun, boshqa transportda 20 kun
+C) Hammasida 30 kun
+D) Faqat avtotransportda 20 kun
+
+76-test
+
+Ro‘yxatga olinib, rasmiylashtirilmagan elektron BYDga o‘zgartirish yoki qo‘shimcha kiritish qaysi holatda taqiqlanadi?
+
+A) Tekshiruv, bojxona ko‘rigi yoki ekspertiza hali yakunlanmagan bo‘lsa
+B) Deklarant o‘zi xato topgan bo‘lsa
+C) Qo‘shimcha hujjat ilova qilingan bo‘lsa
+D) Tovar hali omborda bo‘lsa
+
+77-test
+
+Bojxona organi ro‘yxatga olinib, rasmiylashtirilmagan elektron BYD bo‘yicha murojaatni qancha muddatda ko‘rib chiqadi?
+
+A) Shu zahoti
+B) Bir ish kuni ichida
+C) Uch ish kuni ichida
+D) Besh ish kuni ichida
+
+78-test
+
+Bojxona organi BDT yoki tegishli hujjatlarni taqdim etish muddatini qanday belgilaydi?
+
+A) 10 kalendar kun
+B) 30 kun
+C) Xabardor qilingan kundan keyingi ish kuni yakuniga qadar
+D) Bir oy ichida
+
+79-test
+
+BDT yoki tegishli hujjatlar belgilangan muddatda taqdim etilmasa, odatda nima bo‘ladi?
+
+A) Jarima qo‘llanadi, BYD saqlanib qoladi
+B) BYD avtomatik rasmiylashtiriladi
+C) Bojxona organi BYDni bekor qiladi
+D) Faqat ogohlantirish beriladi
+
+80-test
+
+Ro‘yxatga olinib, rasmiylashtirilmagan elektron BYDni qaytarib olishga asoslar mavjud deb topilsa, u qaysi muddatda qaytariladi?
+
+A) Shu kunning o‘zida
+B) Bir ish kuni davomida
+C) Uch ish kuni davomida
+D) Besh ish kuni davomida
+
+81-test
+
+Rasmiylashtirilgan elektron BYDga o‘zgartirish yoki qo‘shimcha kiritish to‘g‘risida kim murojaat qilishi mumkin?
+
+A) Faqat deklarantning rahbari
+B) Deklarant yoki uning nomidan ishonchnoma asosida harakat qiluvchi deklaratsiyalovchi shaxs
+C) Faqat bojxona posti xodimi
+D) Faqat sud ijrochisi
+
+82-test
+
+Murojaat etilayotgan yilda rasmiylashtirilgan, bojxona to‘lovlarini qaytarish bilan bog‘liq bo‘lmagan o‘zgartirishlar yuzasidan, odatda, kimga murojaat qilinadi?
+
+A) Hududiy bojxona boshqarmasi boshlig‘iga har doim
+B) BYD ro‘yxatga olingan bojxona posti boshlig‘iga
+C) Faqat Bojxona qo‘mitasi raisiga
+D) Faqat prokuraturaga
+
+83-test
+
+Yuqoridagi toifaga kirmaydigan boshqa hollarda BYDga o‘zgartirish yoki qo‘shimcha kiritish yuzasidan kimga murojaat qilinadi?
+
+A) Faqat sudga
+B) BYD rasmiylashtirilgan hududiy bojxona boshqarmasi boshlig‘i yoki uning o‘rinbosariga
+C) Faqat bankka
+D) Faqat deklarantning o‘ziga
+
+84-test
+
+Rasmiylashtirilgan BYDga o‘zgartirish yoki qo‘shimcha kiritish yuzasidan ijobiy javob xati olingandan so‘ng deklarant yoki deklaratsiyalovchi shaxs BDT va (yoki) hujjatlarni qancha muddatda taqdim etishi kerak?
+
+A) 1 kun ichida
+B) 3 kun ichida
+C) 5 kundan kechiktirmay
+D) 15 kun ichida
+
+85-test
+
+Bojxona organi tashabbusi bilan BYDga o‘zgartirish yoki qo‘shimcha kiritish bo‘yicha xat olingach, deklarant yoki deklaratsiyalovchi shaxs qancha muddatda javob chorasi ko‘rishi kerak?
+
+A) 24 soat ichida
+B) 5 kundan kechiktirmay
+C) 10 kun ichida
+D) 1 oy ichida
+
+86-test
+
+Deklarant asoslangan sabablarga ko‘ra BYDni taqdim qila olmasa, bojxona organi qachon mustaqil ravishda o‘zgartirish kiritishi mumkin?
+
+A) Har qanday holatda
+B) Faqat sud qarori bilan
+C) Bojxona maqsadlari uchun, biroq o‘zgartirish bojxona to‘lovlari yoki tashqi savdo kontrakti ma’lumotlariga ta’sir etmasa
+D) Faqat eksportda
+
+87-test
+
+Deklarant arizasi bilan rasmiylashtirilgan BYDni bekor qilish qaysi holatda mumkin?
+
+A) Har qanday xatoda
+B) Faqat bojxona to‘lovi qaytarilganda
+C) Faqat bitta tovar yuzasidan bir nechta BYD qabul qilingan holatda
+D) Faqat sud buyrug‘i bilan
+
+88-test
+
+Rasmiylashtirilgan BYDni qaytarib olish yoki bekor qilish uchun asoslar mavjud deb topilsa, u qaysi muddatda Yagona avtomatlashtirilgan axborot tizimi orqali amalga oshiriladi?
+
+A) 1 ish kuni
+B) 2 ish kuni
+C) 3 ish kuni
+D) 5 ish kuni
+
+89-test
+
+Qog‘oz shaklidagi BYD qaytarilayotganda uning barcha nusxalariga qanday belgi qo‘yiladi?
+
+A) “BEKOR QILINDI”
+B) “QAYTARILDI”
+C) “TUZATILDI”
+D) “QABUL QILINDI”
+
+90-test
+
+Deklarant bojxona posti yoki hududiy bojxona boshqarmasining BYDga o‘zgartirish, qo‘shimcha kiritish, qayta rasmiylashtirish, qaytarib olish yoki bekor qilish bo‘yicha xati yuzasidan qayerga shikoyat qilishi mumkin?
+
+A) Faqat ichki auditga
+B) Yuqori turuvchi bojxona organiga yoki sudga
+C) Faqat soliq organiga
+D) Faqat bankka
+
+91-test
+
+Eksport bojxona rejimida BYDning 1-grafasi birinchi bo‘linmasida qaysi belgi ko‘rsatiladi?
+
+A) IM
+B) EK
+C) EX-40
+D) TR
+
+92-test
+
+Eksport rejimida BYDning 1-grafasi uchinchi bo‘linmasi qanday to‘ldiriladi?
+
+A) Rejimning uch xonali kodi yoziladi
+B) Davlat kodi yoziladi
+C) To‘ldirilmaydi
+D) Post kodi yoziladi
+
+93-test
+
+Agar BYDda qo‘shimcha varaqlar bo‘lmasa, 3-grafada qaysi ko‘rinish to‘g‘ri hisoblanadi?
+
+A) 0/1
+B) 1/0
+C) 1/1
+D) 2/1
+
+94-test
+
+5-grafada ko‘rsatiladigan “tovarlar nomlarining umumiy soni” nimaga mos bo‘lishi kerak?
+
+A) 42-grafalar soniga
+B) To‘ldirilgan 31-grafalar soniga
+C) 45-grafalar soniga
+D) Qo‘shimcha varaqlar soniga
+
+95-test
+
+7-grafada nima ko‘rsatiladi?
+
+A) Eksportchi STIRi
+B) Tovar partiyasi raqami
+C) BYD taqdim etiladigan bojxona postining 5 xonali kodi
+D) Tashqi savdo kontrakti raqami
+
+96-test
+
+8-grafada eksport rejimida qanday ma’lumot qayd etiladi?
+
+A) Faqat bank rekvizitlari
+B) Transport hujjatlarida ko‘rsatilgan yukni qabul qiluvchi haqidagi ma’lumotlar
+C) Faqat deklarantning yashash manzili
+D) Bojxona brokeri haqidagi ma’lumotlar
+
+97-test
+
+Agar 11-grafadagi mamlakat offshor hududlar ro‘yxatiga kirsa, grafaning o‘ng bo‘linmasida qaysi kod ko‘rsatiladi?
+
+A) 0
+B) 1
+C) 2
+D) 9
+
+98-test
+
+12-grafadagi umumiy bojxona qiymati nimaning yig‘indisidan tashkil topadi?
+
+A) 42-grafalardagi faktura qiymatlari
+B) 46-grafalardagi statistik qiymatlar
+C) 45-grafalardagi bojxona qiymatlari
+D) 47-grafalardagi bojxona to‘lovlari
+
+99-test
+
+13-grafada qaysi kurs ko‘rsatiladi?
+
+A) Shartnoma tuzilgan kundagi yevro kursi
+B) Tovar jo‘natilgan kundagi valyuta kursi
+C) BYD qabul qilingan kundagi AQSH dollarining milliy valyutaga nisbatan kursi
+D) Bojxona posti ichki kursi
+
+100-test
+
+19-grafada tovar konteynerda olib o‘tilayotgan bo‘lsa, qaysi kod qo‘yiladi?
+
+A) 0
+B) 1
+C) 2
+D) 9
+
+101-test
+
+20-grafaning birinchi bo‘linmasida nima ko‘rsatiladi?
+
+A) Yetkazib berish shartining raqamli kodi
+B) Faqat geografik punkt
+C) Hisob-kitob valyutasi kodi
+D) Bojxona to‘lovi kodi
+
+102-test
+
+Eksport qilinayotgan tovarlar uchun 20-grafaning uchinchi bo‘linmasida “10” kodi nimani bildiradi?
+
+A) Akkreditiv
+B) Konsignatsiya
+C) Oldindan to‘lov
+D) Barter operatsiyasi
+
+103-test
+
+20-grafada tovarlarni jo‘natish shaklining “02” kodi qaysi holatni anglatadi?
+
+A) Tovar to‘g‘ridan-to‘g‘ri shartnoma tuzuvchi shaxs manziliga jo‘natiladi
+B) Tovar to‘g‘ridan-to‘g‘ri shartnoma tuzuvchi shaxs manziliga jo‘natilmaydi
+C) Tovar bepul beriladi
+D) Tovar vaqtincha olib chiqiladi
+
+104-test
+
+22-grafaning o‘ng bo‘linmasida nima ko‘rsatiladi?
+
+A) Tovarlarning umumiy statistik qiymati
+B) Tovarlarning umumiy faktura qiymati
+C) Tovarlarning umumiy netto vazni
+D) Tovarlar soni
+
+105-test
+
+Agar kontrakt valyutasi O‘zbekiston Respublikasi milliy valyutasi bo‘lsa, 23-grafada qanday yozuv ko‘rsatiladi?
+
+A) 0/0
+B) 1/0
+C) 1/1
+D) 100/100
+
+106-test
+
+24-grafaning o‘ng bo‘linmasida nima ko‘rsatiladi?
+
+A) Yetkazib berish shartining harfli kodi
+B) Kontragent bilan hisob-kitob valyutasining raqamli kodi
+C) Tovarning kelib chiqish mamlakati kodi
+D) Bojxona posti kodi
+
+107-test
+
+29-grafada qanday ma’lumot ko‘rsatiladi?
+
+A) Tovar turgan joy manzili
+B) Tovarni ishlab chiqargan korxona nomi
+C) Tovar O‘zbekistondan olib chiqiladigan bojxona postining kodi va nomi
+D) Deklarantning STIRi
+
+108-test
+
+Qaysi holatda 30-grafa to‘ldirilmaydi?
+
+A) Tovar temir yo‘l stansiyasida turganda
+B) Tovar bojxona omborida turganda
+C) Tovar quvur transporti yoki elektr uzatish liniyalari orqali olib o‘tilganda
+D) Tovar erkin omborda turganda
+
+109-test
+
+31-grafada tovar tavsifi qanday bo‘lishi kerak?
+
+A) Faqat tovar pozitsiyasining umumiy nomi kifoya
+B) TIF TN bo‘yicha 10 xonali podsubpozitsiyada aniq tasniflash imkonini beradigan darajada batafsil bo‘lishi kerak
+C) Faqat marka yozilishi kifoya
+D) Faqat ishlab chiqaruvchi mamlakat ko‘rsatiladi
+
+110-test
+
+46-grafadagi statistik qiymat qanday aniqlikda ko‘rsatiladi?
+
+A) Verguldan so‘ng 1 belgigacha
+B) Verguldan so‘ng 2 belgigacha
+C) Verguldan so‘ng 3 belgigacha
+D) Butun son ko‘rinishida
+
+JAVOBLAR KALITI
+1–20
+
+1-D
+2-B
+3-C
+4-B
+5-C
+6-C
+7-B
+8-C
+9-A
+10-B
+11-C
+12-A
+13-B
+14-A
+15-C
+16-B
+17-C
+18-B
+19-C
+20-B
+
+21–40
+
+21-B
+22-B
+23-C
+24-C
+25-C
+26-B
+27-C
+28-B
+29-C
+30-B
+31-C
+32-C
+33-B
+34-B
+35-C
+36-D
+37-C
+38-B
+39-C
+40-C
+
+41–60
+
+41-B
+42-C
+43-B
+44-D
+45-C
+46-B
+47-C
+48-B
+49-B
+50-B
+51-B
+52-C
+53-C
+54-B
+55-B
+56-C
+57-C
+58-B
+59-C
+60-B
+
+61–90
+
+61-B
+62-C
+63-C
+64-B
+65-B
+66-A
+67-B
+68-B
+69-D
+70-B
+71-B
+72-C
+73-C
+74-B
+75-B
+76-A
+77-B
+78-C
+79-C
+80-B
+81-B
+82-B
+83-B
+84-C
+85-B
+86-C
+87-C
+88-C
+89-B
+90-B
+
+91–110
+
+91-B
+92-C
+93-C
+94-B
+95-C
+96-B
+97-B
+98-C
+99-C
+100-B
+101-A
+102-C
+103-B
+104-B
+105-C
+106-B
+107-C
+108-C
+109-B
+110-C
