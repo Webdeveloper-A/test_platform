@@ -12,7 +12,8 @@
     "prisma:migrate": "prisma migrate dev",
     "prisma:seed": "tsx prisma/seed.ts",
     "vercel-build": "prisma generate && next build",
-    "questions:import110": "tsx scripts/import-110.ts"
+    "questions:import110": "tsx scripts/import-110.ts",
+    "tests:setupVariants": "tsx scripts/setup-test-variants.ts"
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",
