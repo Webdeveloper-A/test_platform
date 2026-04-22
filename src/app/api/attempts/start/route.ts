@@ -10,23 +10,22 @@ const schema = z.object({
 
 type OptionKey = "A" | "B" | "C" | "D";
 
-function serializeQuestion(
-  question: {
-    id: string;
-    textUz: string;
-    textRu: string | null;
-    difficulty: string;
-    optionAUz: string;
-    optionARu: string | null;
-    optionBUz: string;
-    optionBRu: string | null;
-    optionCUz: string;
-    optionCRu: string | null;
-    optionDUz: string;
-    optionDRu: string | null;
-  },
-  randomizeOptions: boolean
-) {
+type AttemptQuestion = {
+  id: string;
+  textUz: string;
+  textRu: string | null;
+  difficulty: string;
+  optionAUz: string;
+  optionARu: string | null;
+  optionBUz: string;
+  optionBRu: string | null;
+  optionCUz: string;
+  optionCRu: string | null;
+  optionDUz: string;
+  optionDRu: string | null;
+};
+
+function serializeQuestion(question: AttemptQuestion, randomizeOptions: boolean) {
   const rawOptions = [
     {
       valueKey: "A" as OptionKey,
@@ -106,7 +105,7 @@ export async function POST(request: Request) {
       where: {
         userId: session.userId,
         testId: test.id,
-        completedAt: null,
+        submittedAt: null,
       },
       orderBy: { createdAt: "desc" },
     });
@@ -121,14 +120,13 @@ export async function POST(request: Request) {
       });
 
       const questionMap = new Map(resumedQuestionsRaw.map((q) => [q.id, q]));
-const resumedQuestions = questionIds
+
+      const resumedQuestions = questionIds
   .map((id) => questionMap.get(id))
   .filter(
-    (
-      question
-    ): question is NonNullable<ReturnType<typeof questionMap.get>> => question !== undefined
+    (question): question is NonNullable<typeof resumedQuestionsRaw[number]> =>
+      question !== undefined
   );
-
       if (!resumedQuestions.length) {
         return NextResponse.json(
           { message: "Oldingi urinishdagi savollar topilmadi." },

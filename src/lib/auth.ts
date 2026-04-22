@@ -1,67 +1,78 @@
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
-import { createHmac, timingSafeEqual } from "node:crypto";
-const COOKIE_NAME = "ctp_session";
 
 export type UserRole = "ADMIN" | "STUDENT";
 
-type SessionPayload = {
+export type SessionUser = {
   userId: string;
   username: string;
   fullName: string;
   role: UserRole;
 };
 
-function getSecret() {
-  return process.env.SESSION_SECRET || "change-this-secret";
+const COOKIE_NAME = "ctp_session";
+
+function encodeSession(data: SessionUser) {
+  return Buffer.from(JSON.stringify(data), "utf-8").toString("base64");
 }
 
-function sign(value: string) {
-  return createHmac("sha256", getSecret()).update(value).digest("hex");
-}
-
-export function encodeSession(payload: SessionPayload) {
-  const encoded = Buffer.from(JSON.stringify(payload)).toString("base64url");
-  const signature = sign(encoded);
-  return `${encoded}.${signature}`;
-}
-
-export function decodeSession(value?: string | null): SessionPayload | null {
-  if (!value) return null;
-  const [encoded, signature] = value.split(".");
-  if (!encoded || !signature) return null;
-  const expected = sign(encoded);
-  const a = Buffer.from(signature);
-  const b = Buffer.from(expected);
-  if (a.length !== b.length || !timingSafeEqual(a, b)) {
-    return null;
-  }
+function decodeSession(value: string): SessionUser | null {
   try {
-    return JSON.parse(Buffer.from(encoded, "base64url").toString("utf8")) as SessionPayload;
+    const parsed = JSON.parse(
+      Buffer.from(value, "base64").toString("utf-8")
+    ) as SessionUser;
+
+    if (
+      !parsed ||
+      typeof parsed.userId !== "string" ||
+      typeof parsed.username !== "string" ||
+      typeof parsed.fullName !== "string" ||
+      (parsed.role !== "ADMIN" && parsed.role !== "STUDENT")
+    ) {
+      return null;
+    }
+
+    return parsed;
   } catch {
     return null;
   }
 }
 
-export function setSessionCookie(payload: SessionPayload) {
-  cookies().set(COOKIE_NAME, encodeSession(payload), {
+export function normalizeUserRole(role: string): UserRole {
+  return role === "ADMIN" ? "ADMIN" : "STUDENT";
+}
+
+export function setSession(session: SessionUser) {
+  const isProd = process.env.NODE_ENV === "production";
+
+  cookies().set(COOKIE_NAME, encodeSession(session), {
     httpOnly: true,
+    secure: isProd,
     sameSite: "lax",
-    secure: process.env.NODE_ENV === "production",
     path: "/",
-    maxAge: 60 * 60 * 24 * 7,
+    maxAge: 60 * 60 * 24 * 7
   });
 }
 
-export function clearSessionCookie() {
-  cookies().delete(COOKIE_NAME);
+export function getSession(): SessionUser | null {
+  const raw = cookies().get(COOKIE_NAME)?.value;
+  if (!raw) return null;
+  return decodeSession(raw);
 }
 
-export function getSession() {
-  return decodeSession(cookies().get(COOKIE_NAME)?.value);
+export function clearSession() {
+  const isProd = process.env.NODE_ENV === "production";
+
+  cookies().set(COOKIE_NAME, "", {
+    httpOnly: true,
+    secure: isProd,
+    sameSite: "lax",
+    path: "/",
+    expires: new Date(0)
+  });
 }
 
-export function requireSession() {
+export function requireAuth() {
   const session = getSession();
   if (!session) {
     redirect("/uz/login");
@@ -70,10 +81,15 @@ export function requireSession() {
 }
 
 export function requireRole(role: UserRole) {
-  const session = requireSession();
-  if (session.role !== role) {
-    const target = session.role === "ADMIN" ? "/uz/admin" : "/uz/student";
-    redirect(target);
+  const session = getSession();
+
+  if (!session) {
+    redirect("/uz/login");
   }
+
+  if (session.role !== role) {
+    redirect(session.role === "ADMIN" ? "/uz/admin" : "/uz/student");
+  }
+
   return session;
 }
