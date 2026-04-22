@@ -1,0 +1,96 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id              String    @id @default(cuid())
+  fullName        String
+  username        String    @unique
+  passwordHash    String
+  role            String    @default("STUDENT")
+  preferredLocale String    @default("uz")
+  isActive        Boolean   @default(true)
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  attempts        Attempt[]
+}
+
+model Subject {
+  id            String     @id @default(cuid())
+  code          String     @unique
+  titleUz       String
+  titleRu       String?
+  descriptionUz String?
+  descriptionRu String?
+  questions     Question[]
+  tests         Test[]
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+}
+
+model Question {
+  id            String     @id @default(cuid())
+  subjectId     String
+  subject       Subject    @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  sortOrder     Int?
+  difficulty    String     @default("MEDIUM")
+  textUz        String
+  textRu        String?
+  optionAUz     String
+  optionARu     String?
+  optionBUz     String
+  optionBRu     String?
+  optionCUz     String
+  optionCRu     String?
+  optionDUz     String
+  optionDRu     String?
+  correctOption String
+  isActive      Boolean    @default(true)
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+
+  @@index([subjectId, isActive])
+}
+
+model Test {
+  id               String    @id @default(cuid())
+  subjectId        String
+  subject          Subject   @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  titleUz          String
+  titleRu          String?
+  descriptionUz    String?
+  descriptionRu    String?
+  durationMinutes  Int       @default(30)
+  questionCount    Int       @default(25)
+  randomizeQuestions Boolean @default(true)
+  isActive         Boolean   @default(true)
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+  attempts         Attempt[]
+}
+
+model Attempt {
+  id             String   @id @default(cuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  testId         String
+  test           Test     @relation(fields: [testId], references: [id], onDelete: Cascade)
+  startedAt      DateTime @default(now())
+  submittedAt    DateTime?
+  scorePercent   Float    @default(0)
+  correctCount   Int      @default(0)
+  totalCount     Int      @default(0)
+  durationSeconds Int?
+  questionIdsJson String
+  answersJson     String?
+  resultJson      String?
+  createdAt      DateTime @default(now())
+
+  @@index([userId, startedAt])
+  @@index([testId, createdAt])
+}
