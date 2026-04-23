@@ -16,7 +16,8 @@
     "tests:setupVariants": "tsx scripts/setup-test-variants.ts",
     "subject:setup:payments": "tsx scripts/setup-customs-payments.ts",
     "questions:importSubject": "tsx scripts/import-subject-questions.ts",
-    "questions:importPayments100": "tsx scripts/import-customs-payments-100.ts"
+    "questions:importPayments100": "tsx scripts/import-customs-payments-100.ts",
+    "questions:importCustomsValue150": "tsx scripts/import-customs-value-laws-150.ts"
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",
