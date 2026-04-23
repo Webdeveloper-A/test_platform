@@ -1,0 +1,32 @@
+1-test
+
+Bojxona to‘lovlari tarkibiga qaysilar kiradi?
+
+A) Faqat bojxona boji
+B) Bojxona boji, QQS, aksiz va bojxona yig‘imlari
+C) Faqat QQS va aksiz
+D) Faqat bojxona yig‘imi
+
+2-test
+
+Import bojxona boji nimaga asosan hisoblanadi?
+
+A) Faqat netto vaznga
+B) Faqat tovar soniga
+C) Bojxona qiymati va stavkaga
+D) Faqat kontrakt summasiga
+
+3-test
+
+Aksiz solig‘i qaysi tovarlarga nisbatan bojxona chegarasida dolzarb bo‘ladi?
+
+A) Har qanday tovarga
+B) Aksiz osti tovarlariga
+C) Faqat qishloq xo‘jaligi mahsulotlariga
+D) Faqat eksport qilinadigan tovarlarga
+
+JAVOBLAR KALITI
+
+1-B
+2-C
+3-B

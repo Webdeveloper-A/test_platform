@@ -13,7 +13,10 @@
     "prisma:seed": "tsx prisma/seed.ts",
     "vercel-build": "prisma generate && next build",
     "questions:import110": "tsx scripts/import-110.ts",
-    "tests:setupVariants": "tsx scripts/setup-test-variants.ts"
+    "tests:setupVariants": "tsx scripts/setup-test-variants.ts",
+    "subject:setup:payments": "tsx scripts/setup-customs-payments.ts",
+    "questions:importSubject": "tsx scripts/import-subject-questions.ts",
+    "questions:importPayments100": "tsx scripts/import-customs-payments-100.ts"
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",
